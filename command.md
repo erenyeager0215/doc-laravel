@@ -1,6 +1,4 @@
-
-
-# DBテーブル作成時コマンド
+# コマンド備忘録
 ```
 php artisan make:model ContactForm -ms
 ```

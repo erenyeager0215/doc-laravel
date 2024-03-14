@@ -17,6 +17,10 @@ php artisan make:migration add_title_to_contact_forms_table
 php artisan migrate:status
 ````
 実行履歴がみれる
+````
+php artisan migrate
+````
+マイグレーションの実行
 
 ````
 php artisan serve
